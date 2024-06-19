@@ -4,7 +4,7 @@
 
 ### About me
 - 🌟 Passionate about software development since my teenage years, exploring various projects as a hobbyist and freelancer.
-- 🎓 Hold [BCA](https://msubaroda.ac.in/) and [MCA](https://ceg.annauniv.edu/) degrees with first-class honors from respected government universities.
+- 🎓 Hold [BCA - MSU Baroda](https://msubaroda.ac.in/) and [MCA - CEG AU](https://ceg.annauniv.edu/) degrees with first-class honors from renowned government universities.
 - 💻 Believe coding mastery lies in algorithms, enjoy juggling multiple language projects.
 - 🌐 Fascinated by IoT's software and hardware intricacies, particularly passionate about tech-driven solutions in 🌱 agriculture.
 
