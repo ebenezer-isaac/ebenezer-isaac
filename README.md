@@ -10,10 +10,11 @@ This is an auto-generated README.md file by GitHub Copilot.
   AEM Developer & Full-Stack Engineer with 3+ years at IBM, shipping solutions for IBM.com. Currently pursuing an MSc in Systems Engineering for IoT at University College London (UCL). 9x Adobe Certified Expert & AWS Certified Cloud Practitioner.
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0077B5?style=social&logo=googlechrome&logoColor=white)](https://ebenezer-isaac.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=social&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ebnezr-isaac/)
-[![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=social&logo=Gmail&logoColor=white)](mailto:ebnezr.isaac@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=social&logo=GitHub&logoColor=white)](https://github.com/ebenezer-isaac)
+<p>
+    <a href="https://ebenezer-isaac.com"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/ebnezr-isaac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:ebnezr.isaac@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ---
 
