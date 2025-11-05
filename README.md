@@ -4,7 +4,7 @@ This is an auto-generated README.md file by GitHub Copilot.
 
 ### AEM Developer, Full-Stack Engineer & IoT Innovator 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=500&lines=AEM+Developer+%7C+Full-Stack+Engineer;IoT+Systems+Engineer+%40+UCL;9x+Adobe+%26+AWS+Certified+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=500&lines=AEM+%7C+Full-Stack+Developer;IoT+Systems+Engineer+%40+UCL;9x+Adobe+%26+AWS+Certified+Expert" alt="Typing SVG" />
 
 <p>
   AEM Developer & Full-Stack Engineer with 3+ years at IBM, shipping solutions for IBM.com. Currently pursuing an MSc in Systems Engineering for IoT at University College London (UCL). 9x Adobe Certified Expert & AWS Certified Cloud Practitioner.
