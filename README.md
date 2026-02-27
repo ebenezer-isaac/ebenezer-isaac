@@ -76,12 +76,7 @@ This is an auto-generated README.md file by GitHub Copilot.
 
 ### 🏆 Certifications & Authority (Wall of Proof)
 <p>
-  <img src="https://img.shields.io/badge/Adobe%20Certified%20Expert-AEM%20Sites%20Developer-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Expert - AEM Sites Developer"/>
-  <img src="https://img.shields.io/badge/Adobe%20Certified%20Expert-AEM%20Sites%20Practitioner-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Expert - AEM Sites Practitioner"/>
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/SAP%20Certified-ABAP%20for%20SAP%20HANA-008BCF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Certified - ABAP for SAP HANA"/>
-  <img src="https://img.shields.io/badge/Adobe%20Certified-Analytics%20Developer-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Professional - Analytics Developer"/>
-  <img src="https://img.shields.io/badge/Adobe%20Certified-AEM%20Forms%20Backend-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Certified Professional - AEM Forms Backend Developer"/>
+  ![ebenezer-isaac.05496d7f's Credly overview card](/api/overview?username=ebenezer-isaac.05496d7f&theme=radical&visible_count=6&badge_size=32&max_items=30&card_width=465)
 </p>
 
 ---
