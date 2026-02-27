@@ -4,7 +4,7 @@ This is an auto-generated README.md file by GitHub Copilot.
 
 ### AEM Developer, Full-Stack Engineer & IoT Innovator 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=500&lines=AEM+%7C+Full-Stack+Developer;IoT+Systems+Engineer+%40+UCL;9x+Adobe+%26+AWS+Certified+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=500&lines=AEM+%7C+Full-Stack+Developer;IoT+Systems+Engineer+%40+UCL;9x+Adobe+%26+AWS+Certified+Expert)" alt="Typing SVG" />
 
 <p>
   AEM Developer & Full-Stack Engineer with 3+ years at IBM, shipping solutions for IBM.com. Currently pursuing an MSc in Systems Engineering for IoT at University College London (UCL). 9x Adobe Certified Expert & AWS Certified Cloud Practitioner.
@@ -21,7 +21,7 @@ This is an auto-generated README.md file by GitHub Copilot.
 ### 📊 My GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ebenezer-isaac&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="ebenezer-isaac's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ebenezer-isaac&theme=radical" alt="ebenezer-isaac's GitHub streak" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ebenezer-isaac&theme=radical" alt="ebenezer-isaac's GitHub streak" />
 </p>
 
 ---
