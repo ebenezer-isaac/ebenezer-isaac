@@ -22,10 +22,10 @@ This is an auto-generated README.md file by GitHub Copilot.
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" height="195" src="https://stats.ebenezer-isaac.com/api?username=ebenezer-isaac&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="ebenezer-isaac's GitHub stats" />
+      <img width="100%" src="https://stats.ebenezer-isaac.com/api?username=ebenezer-isaac&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="ebenezer-isaac's GitHub stats" />
     </td>
     <td width="50%">
-      <img width="100%" height="195" src="https://streak.ebenezer-isaac.com?user=ebenezer-isaac&theme=radical" alt="ebenezer-isaac's GitHub streak" />
+      <img width="100%" src="https://streak.ebenezer-isaac.com?user=ebenezer-isaac&theme=radical" alt="ebenezer-isaac's GitHub streak" />
     </td>
   </tr>
 </table>
