@@ -75,8 +75,10 @@ This is an auto-generated README.md file by GitHub Copilot.
 ---
 
 ### 🏆 Certifications & Authority (Wall of Proof)
-<p>
-  ![ebenezer-isaac.05496d7f's Credly overview card](/api/overview?username=ebenezer-isaac.05496d7f&theme=radical&visible_count=6&badge_size=32&max_items=30&card_width=465)
+<p align="center">
+  <a href="https://www.credly.com/users/ebenezer-isaac.05496d7f/badges">
+    <img src="https://credly-readme-stats.onrender.com/api/overview?username=ebenezer-isaac.05496d7f&theme=radical&visible_count=6&badge_size=32&max_items=30&card_width=800" alt="Credly overview card" />
+  </a>
 </p>
 
 ---
