@@ -7,7 +7,7 @@ This is an auto-generated README.md file by GitHub Copilot.
 <img src="https://typing.ebenezer-isaac.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=720&lines=IoT+Engineer+%40+Cosysense;Edge+AI+on+Microsoft+Foundry+Local;MSc+IoT+%40+UCL" alt="Typing SVG" />
 
 <p>
-  IoT engineer working on edge AI and the systems that tie devices, data and software together. I automate smart-building client onboarding on AWS IoT at Cosysense, and I've just finished the MSc in Systems Engineering for the Internet of Things at UCL, with a dissertation under Microsoft industry supervision. Before that, about three years at IBM. Certified across 9 Adobe domains and AWS Certified Cloud Practitioner.
+  IoT engineer at Cosysense, working on edge AI and the systems that connect devices, data and software.
 </p>
 
 <p>
@@ -103,10 +103,10 @@ A fine-tuned 0.6B language model running traffic signals on a 6 GB consumer GPU 
 ### 📖 My Journey
 
 #### 🏢 **Now: IoT Engineer @ Cosysense**
-- Automating smart-building client onboarding, from signed deal to installed sensors and energy-savings reports, on AWS IoT.
+- Smart-building client onboarding on AWS IoT.
 
 #### 🎓 **MSc Systems Engineering for the Internet of Things @ UCL (2026)**
-- Dissertation through UCL's Industry Exchange Network with Microsoft industry supervision: on-device traffic-signal control with a fine-tuned small language model on Microsoft Foundry Local.
+- Dissertation with Microsoft industry supervision (featured above).
 
 #### 💻 **Previously (2022–2025):**
 - **AEM Application Developer @ IBM**.
