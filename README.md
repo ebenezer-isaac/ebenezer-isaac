@@ -4,7 +4,7 @@ This is an auto-generated README.md file by GitHub Copilot.
 
 ### IoT Engineer, Edge AI Researcher & Full-Stack Developer 🚀
 
-<img src="https://typing.ebenezer-isaac.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=720&lines=IoT+Engineer+%40+Cosysense;Edge+AI+on+Microsoft+Foundry+Local;MSc+IoT+%40+UCL" alt="Typing SVG" />
+<img src="https://typing.ebenezer-isaac.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=720&lines=Smart+buildings+%40+Cosysense;Edge+AI+on+Microsoft+Foundry+Local;MSc+IoT+%40+UCL" alt="Typing SVG" />
 
 <p>
   I work on edge AI and the systems that tie devices, data and software together.
@@ -106,7 +106,7 @@ A fine-tuned 0.6B language model running traffic signals on a 6 GB consumer GPU 
 - Smart-building client onboarding on AWS IoT.
 
 #### 🎓 **MSc Systems Engineering for the Internet of Things @ UCL (2026)**
-- Dissertation with Microsoft industry supervision (featured above).
+- Dissertation featured above.
 
 #### 💻 **Previously (2022–2025):**
 - **AEM Application Developer @ IBM**.
