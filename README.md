@@ -7,7 +7,7 @@ This is an auto-generated README.md file by GitHub Copilot.
 <img src="https://typing.ebenezer-isaac.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=720&lines=IoT+Engineer+%40+Cosysense;Edge+AI+on+Microsoft+Foundry+Local;MSc+IoT+%40+UCL" alt="Typing SVG" />
 
 <p>
-  IoT engineer at Cosysense, working on edge AI and the systems that connect devices, data and software.
+  IoT engineer working on edge AI and the systems that tie devices, data and software together.
 </p>
 
 <p>
