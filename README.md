@@ -4,7 +4,7 @@ This is an auto-generated README.md file by GitHub Copilot.
 
 ### IoT Engineer, Edge AI Researcher & Full-Stack Developer 🚀
 
-<img src="https://typing.ebenezer-isaac.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=500&lines=IoT+Engineer+%40+Cosysense;Edge+AI+on+Microsoft+Foundry+Local;MSc+IoT+%40+UCL)" alt="Typing SVG" />
+<img src="https://typing.ebenezer-isaac.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=720&lines=IoT+Engineer+%40+Cosysense;Edge+AI+on+Microsoft+Foundry+Local;MSc+IoT+%40+UCL" alt="Typing SVG" />
 
 <p>
   IoT engineer working on edge AI and the systems that tie devices, data and software together. I automate smart-building client onboarding on AWS IoT at Cosysense, and I've just finished the MSc in Systems Engineering for the Internet of Things at UCL, with a dissertation under Microsoft industry supervision. Before that, about three years at IBM. Certified across 9 Adobe domains and AWS Certified Cloud Practitioner.
