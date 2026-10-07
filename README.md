@@ -2,18 +2,28 @@
 This is an auto-generated README.md file by GitHub Copilot.
 -->
 
-### AEM Developer, Full-Stack Engineer & IoT Innovator 🚀
+### IoT Engineer, Edge AI Researcher & Full-Stack Developer 🚀
 
-<img src="https://typing.ebenezer-isaac.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=500&lines=AEM+%7C+Full-Stack+Developer;IoT+Systems+Engineer+%40+UCL;9x+Adobe+%26+AWS+Certified+Expert)" alt="Typing SVG" />
+<img src="https://typing.ebenezer-isaac.com?font=Fira+Code&size=25&pause=1000&color=18A0FB&center=false&width=500&lines=IoT+Engineer+%40+Cosysense;Edge+AI+on+Microsoft+Foundry+Local;MSc+IoT+%40+UCL)" alt="Typing SVG" />
 
 <p>
-  AEM Developer & Full-Stack Engineer with 3+ years at IBM, shipping solutions for IBM.com. Currently pursuing an MSc in Systems Engineering for IoT at University College London (UCL). 9x Adobe Certified Expert & AWS Certified Cloud Practitioner.
+  IoT engineer working on edge AI and the systems that tie devices, data and software together. I automate smart-building client onboarding on AWS IoT at Cosysense, and I've just finished the MSc in Systems Engineering for the Internet of Things at UCL, with a dissertation under Microsoft industry supervision. Before that, about three years at IBM. Certified across 9 Adobe domains and AWS Certified Cloud Practitioner.
 </p>
 
 <p>
     <a href="https://ebenezer-isaac.com"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/ebnezr-isaac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:ebnezr.isaac@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+### 🚦 Featured: Edge Traffic Negotiator
+A fine-tuned 0.6B language model running traffic signals on a 6 GB consumer GPU through **Microsoft Foundry Local**, with a safety shield and a signed, hash-chained audit log that maps the controller's actions to UK road-traffic rules after a simulated collision. In simulation it matched MaxPressure, a classic adaptive algorithm, and a fine-tuned model about six times its size. UCL MSc dissertation with Microsoft industry supervision.
+
+<p>
+  <a href="https://github.com/ebenezer-isaac/edge-traffic-negotiator"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+  <a href="https://huggingface.co/ebnezr-isaac"><img src="https://img.shields.io/badge/Models%20%26%20Dataset-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 </p>
 
 ---
@@ -55,8 +65,13 @@ This is an auto-generated README.md file by GitHub Copilot.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-#### IoT & Embedded Systems
+#### Edge AI & IoT
 <p>
+  <img src="https://img.shields.io/badge/Microsoft%20Foundry%20Local-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Foundry Local"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/AWS%20IoT%20Core%20(LoRaWAN)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IoT Core"/>
+  <img src="https://img.shields.io/badge/SUMO%20%2F%20TraCI-2E7D32?style=for-the-badge" alt="SUMO"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
   <img src="https://img.shields.io/badge/systemd-333333?style=for-the-badge&logo=systemd&logoColor=white" alt="systemd"/>
@@ -67,6 +82,8 @@ This is an auto-generated README.md file by GitHub Copilot.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/GCP%20KMS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP KMS"/>
   <img src="https://img.shields.io/badge/Google%20Tink-6A1B9A?style=for-the-badge&logo=google&logoColor=white" alt="Google Tink"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -85,9 +102,11 @@ This is an auto-generated README.md file by GitHub Copilot.
 
 ### 📖 My Journey
 
-#### 🎓 **Currently (Expected 2026):**
-- Pursuing an **MSc in Systems Engineering for the Internet of Things @ University College London (UCL)**.
-- Focusing on designing, integrating, and operating networked sensor/embedded systems at scale.
+#### 🏢 **Now: IoT Engineer @ Cosysense**
+- Automating smart-building client onboarding, from signed deal to installed sensors and energy-savings reports, on AWS IoT.
+
+#### 🎓 **MSc Systems Engineering for the Internet of Things @ UCL (2026)**
+- Dissertation through UCL's Industry Exchange Network with Microsoft industry supervision: on-device traffic-signal control with a fine-tuned small language model on Microsoft Foundry Local.
 
 #### 💻 **Previously (2022–2025):**
 - **AEM Application Developer @ IBM**.
@@ -101,8 +120,8 @@ This is an auto-generated README.md file by GitHub Copilot.
 - 🏋️‍♂️ Recently taken on challenges like 🏃‍♂️ marathon training, 🚴‍♂️ cycling long distances, and ⛰️ adventurous treks.
 - 📚 Delve into philosophy and 🧠 psychology during quieter moments, seeking profound insights.
 
-### 🔭 Currently seeking
-- Looking for an organization to showcase my programming skills and push my limits as a part-time software developer.
+### 🔭 Open to
+- Conversations and collaborations on edge AI, IoT systems and smart infrastructure.
 
 ### 🤙 Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebnezr-isaac/)
